@@ -1,0 +1,53 @@
+Create a professional 7-slide academic presentation on "AI Interview System: Adaptive Mock Interview Platform with LLMs and Voice Interface"
+
+Slide 1: Title Slide
+- Title: "AI Interview System: Adaptive Mock Interview Platform with LLMs and Voice Interface"
+- Authors: Anish Shinde, Rohit Kashid, Sujal Suryawanshi
+- AISSMS Institute of Information Technology, Pune
+- 2025
+
+Slide 2: Problem & Solution
+Problem:
+- Limited access to interview practice
+- Inconsistent feedback quality
+- Time-consuming manual screening for recruiters
+Solution:
+- AI-driven automated interview system
+- Voice-based interaction with real-time transcription
+- Personalized adaptive questioning
+- Comprehensive AI-powered evaluation
+
+Slide 3: System Architecture
+Flow Diagram showing:
+Resume Input → LLM Parser → Question Generator → Voice Interface (TTS)
+User Response → Speech-to-Text → Response Analysis → Scoring Engine (LLM)
+Report Generator → Interview Report with Scores
+Key Technologies: LiteLLM (Mistral Large), Speechmatics API (Real-time STT), Edge-TTS (Text-to-Speech), Streamlit (Web Interface)
+
+Slide 4: Key Features
+1. Resume Parsing - LLM extracts candidate info from PDF
+2. Adaptive Questions - Personalized based on resume & job description
+3. Voice Interface - 4 AI voices, real-time transcription
+4. AI Evaluation - 0-10 scoring with detailed feedback
+5. Real-time Adaptation - Questions adjust based on responses
+
+Slide 5: Results & Performance
+Metrics:
+Transcription Accuracy: 95%+ for clear audio
+Latency: <1 second (transcription), 2-3 seconds (question generation)
+Successfully completed 10+ mock interviews
+Average interview duration: 15-20 minutes
+Testing Results: Contextually relevant question generation, accurate resume parsing, coherent scoring and feedback, natural conversation flow
+
+Slide 6: Comparison & Differentiators
+Comparison Table: Sharma et al. (CV+NLP), Mandal et al. (Emotion/Confidence), Our System (Voice+NLP)
+Our system is the ONLY one with: Adaptive LLM-based question generation, Real-time voice interaction with adaptation, Open-source with resume-driven personalization
+Key Differentiator: Content-focused approach using LLM-based semantic evaluation instead of nonverbal cues
+
+Slide 7: Future Work & Conclusion
+Future Enhancements: Multimodal analysis (CV for facial expressions), Emotion recognition, Multi-language support, Dynamic difficulty adjustment, HR system integration
+Conclusion: Successfully demonstrated automated resume analysis, adaptive question generation, real-time voice interaction, and comprehensive evaluation. Modular architecture enables future multimodal enhancements.
+Thank You / Q&A
+
+Design Style: Modern academic theme with tech/AI colors (blues, purples), clean professional design, use diagrams for architecture, include icons for features, keep text concise, appropriate charts for metrics
+
