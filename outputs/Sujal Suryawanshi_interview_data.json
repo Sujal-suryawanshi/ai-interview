@@ -1,0 +1,57 @@
+{
+  "name": "Sujal Suryawanshi",
+  "createdAt": "2025-10-19T14:12:14.943230Z",
+  "updatedAt": "2025-10-19T14:12:14.943230Z",
+  "id": 1,
+  "job_description": "java",
+  "resume_highlights": [
+    {
+      "highlight": "Developed **ToneMail**, a **full-stack AI-powered email assistant** leveraging **Spring AI** to generate **tone-specific, context-aware email replies** (Formal, Friendly, etc.), integrated as a **Chrome Extension** for Gmail with **cross-origin communication** between frontend and backend. Demonstrated expertise in **Spring Boot REST APIs, browser extension messaging, and prompt engineering** for dynamic response generation.",
+      "impact": "Showcases advanced **AI integration, full-stack development, and Chrome Extension** capabilities with real-world applicability in productivity tools."
+    },
+    {
+      "highlight": "Achieved **89.31% in Diploma in Computer Technology** (K.K. Wagh Polytechnic, 2020\u20132023), reflecting strong academic performance in **core technical fundamentals** relevant to software engineering.",
+      "impact": "High academic standing in a **technical diploma program**, indicating disciplined learning and mastery of foundational concepts."
+    },
+    {
+      "highlight": "Proficient in **Spring Framework ecosystem** (Spring Boot, Core, Data JPA, Web MVC, REST APIs) with hands-on experience in building **scalable, maintainable applications**, including **RESTful Web Services** using **JDBC** and **Swagger UI/Postman** for API testing and documentation.",
+      "impact": "Deep expertise in **modern Java backend development**, critical for enterprise-level applications and microservices architectures."
+    },
+    {
+      "highlight": "Practical experience with **AWS cloud services** (EC2, S3) for deploying and managing **cloud-based applications**, combined with **Apache Tomcat** for Java web app deployment and configuration.",
+      "impact": "Cloud-ready skillset with **deployment and infrastructure management** capabilities, aligning with DevOps and scalable system design trends."
+    },
+    {
+      "highlight": "Applied **SOLID principles, design patterns** (Singleton, Factory, Builder), and **software development best practices** to ensure **clean architecture, maintainability, and transaction management** (ACID compliance) in MySQL databases.",
+      "impact": "Strong **software engineering discipline**, reducing technical debt and improving system reliability in collaborative environments."
+    },
+    {
+      "highlight": "Completed **two targeted internships** in **Full-Stack/Web Development** (Musumee House of Brands, Golden Dreams Software Solutions), focusing on **Java, Spring Boot, Microservices, and MySQL**, with contributions to **backend development and API integration** in real-world projects.",
+      "impact": "Hands-on **industry exposure** in **Agile methodologies** and **collaborative development**, bridging academic knowledge with practical application."
+    },
+    {
+      "highlight": "Developed a **dynamic Business Consultation Services Website** with **Tailwind CSS** frontend and **Spring Boot backend**, featuring a **database-integrated inquiry form** for services like Digital Marketing, SEO, and Web Development.",
+      "impact": "End-to-end **web application development** with **user-centric design** and **data persistence**, demonstrating versatility in both frontend and backend technologies."
+    }
+  ],
+  "conversations": [
+    {
+      "Question": "Hi Sujal Suryawanshi, welcome to this AI interview! My name is Aria and I'll be your interviewer today. Let's get started!\n\nCan you tell me a bit about yourself and what you're looking for in a job?",
+      "Candidate Answer": "My name is Sujata Suryavanshi. I am from Nashik. I have completed my diploma from Polytechnic Engineering and recently completed my internship from the brands where I gain a hands on experience, uh, develop a business consultancy website and I am proficient in Java and Spring boot.",
+      "Evaluation": 7.0,
+      "Feedback": "\n    **Strengths**: Your response highlights **relevant technical skills** (Java/Spring Boot) and **practical experience** (internships, full-stack projects like ToneMail), demonstrating **strong alignment** with the role. The mention of **academic excellence** (89.31% in Diploma) and **cloud/AWS exposure** adds credibility. **Structure** is clear, though concise.\n\n    **Areas for Enhancement**:\n    1) **Missed opportunity**: Omit irrelevant details (e.g., hometown) to focus on **job-specific value** (e.g., SOLID principles, microservices from your resume).\n    2) **Impact**: Quantify outcomes (e.g., "
+    },
+    {
+      "Question": [
+        "Your project **ToneMail** sounds fascinating\u2014especially how you integrated **Spring AI** with a Chrome Extension for dynamic email replies. Could you walk me through the biggest *technical challenge* you faced while building the cross-origin communication between the frontend and backend? How did you debug or resolve it?",
+        "You mentioned proficiency in **Spring Boot and REST APIs**, and your internships involved backend development. Can you share a specific example where you had to *design or optimize an API* (e.g., for performance, scalability, or security)? What trade-offs did you consider?",
+        "Beyond technical skills, collaboration is key in software teams. During your internships, tell me about a time you had to *align with non-technical stakeholders* (e.g., product managers, clients) to clarify requirements or priorities. How did you ensure the technical solution met their needs?"
+      ],
+      "Candidate Answer": "The my project one meal as sounds are how I integrate the spring and chrome extension and dynamic uh replies group uh in how I developed uh spring, I I tell you.",
+      "Evaluation": 5.0,
+      "Feedback": "\n    **Strengths**: Your resume highlights impressive technical depth in **Spring AI, Chrome Extensions, and full-stack development**\u2014directly relevant to the role. The **ToneMail** project demonstrates innovation in **cross-origin communication** and **AI integration**, aligning with Java/backend requirements.\n\n    **Areas for Enhancement**:\n    - **Clarity/Structure**: Your verbal response lacked coherence; practice **concise, structured storytelling** (e.g., **STAR method**: *Situation, Task, Action, Result*).\n    - **Specificity**: For technical challenges, detail **debugging steps** (e.g., CORS errors, WebSocket vs. Message Passing) and **trade-offs** (e.g., security vs. latency in API design).\n    - **Stakeholder Alignment**: Quantify impact (e.g., "
+    }
+  ],
+  "overall_score": 6.0,
+  "rating": "Good"
+}
