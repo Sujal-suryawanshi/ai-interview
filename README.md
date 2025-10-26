@@ -75,12 +75,53 @@ Final results include:
 - Complete conversation history
 - Personalized recommendations
 
-## 🚀 How to run in local environment.
-1.  Clone the repository
-2. Create a virtual environment
-3. Install dependencies inside the virtual environment.
-4. Add environment variables (.env.example) like API keys
-5. Run the application.
+## 🚀 Quick Start - Running Locally
+
+### **Option 1: Automated Setup (Recommended for Windows)**
+Simply double-click:
+- `setup_and_run.bat` - First time setup (one-time)
+- `run_app.bat` - Run the application (every time after setup)
+
+### **Option 2: Manual Setup**
+
+#### Step 1: Navigate to the project directory
+```bash
+cd ai-interview
+```
+
+#### Step 2: Create and activate virtual environment
+```bash
+# Create virtual environment
+python -m venv venv
+
+# Activate (Windows)
+venv\Scripts\activate
+
+# Activate (macOS/Linux)
+source venv/bin/activate
+```
+
+#### Step 3: Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+#### Step 4: Configure environment variables
+Create a `.env` file in the `ai-interview` directory with:
+```env
+LLM_MODEL=mistral/mistral-large-latest
+MISTRAL_API_KEY=your_mistral_api_key_here
+SPEECHMATICS_API_KEY=your_speechmatics_api_key_here
+```
+
+#### Step 5: Run the application
+```bash
+streamlit run app.py
+```
+
+The application will open automatically in your browser at `http://localhost:8501`
+
+📖 **For detailed instructions, see [RUN_LOCALLY.md](RUN_LOCALLY.md)**
 
 
 ## 🔄 Multiple Interviews
